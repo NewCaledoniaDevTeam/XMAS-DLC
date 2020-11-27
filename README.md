@@ -1,5 +1,5 @@
 # XMAS-DLC
 
-Minecraft Christmas DLC For New Caledonia Shader Packs
+Minecraft Bedrock Christmas DLC For New Caledonia Shader Pack
 
 ![pack_icon.png](pack_icon.png)
