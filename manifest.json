@@ -4,7 +4,7 @@
         "description": "Christmas DLC for New Caledonia Shader",
         "name": "XMAS DLC",
         "uuid": "b51e6e8f-6069-422c-abd2-9f5c866433f3",
-        "version": [0, 0, 3],
+        "version": [0, 0, 4],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
